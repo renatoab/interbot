@@ -1,0 +1,10 @@
+C:\Users\Renato\Google Drive\infnet\aulas_eng_soft_aplicada\InterBot-master\InterBotInfra\bin\Debug\InterBotInfra.dll
+C:\Users\Renato\Google Drive\infnet\aulas_eng_soft_aplicada\InterBot-master\InterBotInfra\bin\Debug\InterBotInfra.pdb
+C:\Users\Renato\Google Drive\infnet\aulas_eng_soft_aplicada\InterBot-master\InterBotInfra\bin\Debug\InterBotDomain.dll
+C:\Users\Renato\Google Drive\infnet\aulas_eng_soft_aplicada\InterBot-master\InterBotInfra\bin\Debug\SimpleInjector.dll
+C:\Users\Renato\Google Drive\infnet\aulas_eng_soft_aplicada\InterBot-master\InterBotInfra\bin\Debug\InterBotDomain.pdb
+C:\Users\Renato\Google Drive\infnet\aulas_eng_soft_aplicada\InterBot-master\InterBotInfra\bin\Debug\SimpleInjector.xml
+C:\Users\Renato\Google Drive\infnet\aulas_eng_soft_aplicada\InterBot-master\InterBotInfra\obj\Debug\InterBotInfra.csprojResolveAssemblyReference.cache
+C:\Users\Renato\Google Drive\infnet\aulas_eng_soft_aplicada\InterBot-master\InterBotInfra\obj\Debug\InterBotInfra.csproj.CoreCompileInputs.cache
+C:\Users\Renato\Google Drive\infnet\aulas_eng_soft_aplicada\InterBot-master\InterBotInfra\obj\Debug\InterBotInfra.dll
+C:\Users\Renato\Google Drive\infnet\aulas_eng_soft_aplicada\InterBot-master\InterBotInfra\obj\Debug\InterBotInfra.pdb
