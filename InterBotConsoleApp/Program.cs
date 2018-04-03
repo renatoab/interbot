@@ -20,7 +20,7 @@ namespace InterBotConsoleApp
 {
     class Program
     {
-        private static readonly TelegramBotClient bot = new TelegramBotClient("453316303:AAGE7ymlyh7iMvPyMr9dq-zd2OkafwFdvkA");
+        private static readonly TelegramBotClient bot = new TelegramBotClient("453316303:AAGE7ymxlyh7iMxvPyMrx9dq-zd2OkafwFdvkA");
         private static Dictionary<int, string> UserSteps = new Dictionary<int, string>();
         private static Container container;
         private static Agendamento agendamento;
