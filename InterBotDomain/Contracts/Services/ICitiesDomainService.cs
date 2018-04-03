@@ -11,5 +11,6 @@ namespace InterBotDomain.Contracts.Services
     public interface ICitiesDomainService
     {
         List<Cities> ListCities();
+        Cities getCityByName(string cityName);
     }
 }

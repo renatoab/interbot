@@ -17,10 +17,15 @@ namespace InterBotApplicationService.ApplicationServices
         {
             this.citiesDomainService = citiesDomainService;
         }
-
+                
         public List<Cities> ListCities()
         {
             return citiesDomainService.ListCities();
+        }
+
+        public Cities getCitiesByName(string cityName)
+        {
+            return citiesDomainService.getCityByName(cityName);
         }
     }
 }

@@ -10,5 +10,6 @@ namespace InterBotDomain.Contracts.Services
     public interface ISchoolsDomainService
     {
         List<Schools> ListSchools();
+        List<Schools> ListSchoolsByCity(Cities city);
     }
 }

@@ -10,5 +10,6 @@ namespace InterBotApplicationService.Contracts
     public interface ICitiesApplicationService
     {
         List<Cities> ListCities();
+        Cities getCitiesByName(string cityName);
     }
 }

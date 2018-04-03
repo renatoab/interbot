@@ -72,7 +72,7 @@ namespace InterBotConsoleApp
                 {
                     Send(e, "Olá " + e.Message.Chat.Username + "\n Escolha uma cidade");
                     var citiesApplicationService = container.GetInstance<CitiesApplicationService>();
-                    lista = citiesApplicationService.ListCities().ConvertAll(c => c.Nome);
+                    lista = citiesApplicationService.ListCities().ConvertAll(c => $"{c.Nome} - {c.Info}");
                     Send(e, lista);
                     if (!UserSteps.ContainsKey(e.Message.From.Id))
                     {
@@ -125,7 +125,8 @@ namespace InterBotConsoleApp
 
                                 Send(e, e.Message.From.Username + "\n Escolha uma escola");
                                 var schoolsApplicationService = container.GetInstance<SchoolsApplicationService>();
-                                lista = schoolsApplicationService.ListSchools().ConvertAll(s => s.Nome);
+                                var citiesApplicationService = container.GetInstance<CitiesApplicationService>();
+                                lista = schoolsApplicationService.ListSchoolsByCity(citiesApplicationService.getCitiesByName(agendamento.Cidade)).ConvertAll(s => s.Nome);
                                 Send(e, lista);
                                 UserSteps[e.Message.From.Id] = "Escola";
 
@@ -218,7 +219,7 @@ namespace InterBotConsoleApp
 
                                 Send(e, "Reiniciando...Escolha a cidade");
                                 var citiesApplicationService = container.GetInstance<CitiesApplicationService>();
-                                lista = citiesApplicationService.ListCities().ConvertAll(c => c.Nome);
+                                lista = citiesApplicationService.ListCities().ConvertAll(c => $"{c.Nome} - {c.Info}");
                                 Send(e, lista);
                                 UserSteps[e.Message.From.Id] = "Cidade";
                             }

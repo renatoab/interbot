@@ -9,5 +9,7 @@ namespace InterBotDomain.DomainEntities
     public class Cities
     {
         public string Nome { get; set; }
+        public string Info { get; set; }
+        public virtual List<Cities> ListCities { get; set; }
     }
 }

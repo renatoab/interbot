@@ -10,5 +10,6 @@ namespace InterBotDomain.Contracts.Repositories
     public interface ICitiesRepository
     {
         List<Cities> listarCities();
+        Cities getCitiesByName(string name);
     }
 }

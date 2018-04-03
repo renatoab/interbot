@@ -10,5 +10,6 @@ namespace InterBotApplicationService.Contracts
     public interface ISchoolsApplicationService
     {
         List<Schools> ListSchools();
+        List<Schools> ListSchoolsByCity(Cities city);
     }
 }

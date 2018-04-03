@@ -22,5 +22,10 @@ namespace InterBotDomain.DomainServices
         {
             return schoolsRepository.ListSchools();
         }
+
+        public List<Schools> ListSchoolsByCity(Cities city)
+        {
+            return schoolsRepository.ListSchoolsByCity(city);
+        }
     }
 }

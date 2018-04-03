@@ -6,3 +6,11 @@ C:\Users\Renato\Google Drive\infnet\aulas_eng_soft_aplicada\InterBot-master\Inte
 C:\Users\Renato\Google Drive\infnet\aulas_eng_soft_aplicada\InterBot-master\InterBotApplicationService\obj\Debug\InterBotApplicationService.csproj.CoreCompileInputs.cache
 C:\Users\Renato\Google Drive\infnet\aulas_eng_soft_aplicada\InterBot-master\InterBotApplicationService\obj\Debug\InterBotApplicationService.dll
 C:\Users\Renato\Google Drive\infnet\aulas_eng_soft_aplicada\InterBot-master\InterBotApplicationService\obj\Debug\InterBotApplicationService.pdb
+C:\Users\Renato\Google Drive\infnet\aulas_eng_soft_aplicada\interbot-git\InterBotApplicationService\obj\Debug\InterBotApplicationService.csprojResolveAssemblyReference.cache
+C:\Users\Renato\Google Drive\infnet\aulas_eng_soft_aplicada\interbot-git\InterBotApplicationService\obj\Debug\InterBotApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\Renato\Google Drive\infnet\aulas_eng_soft_aplicada\interbot-git\InterBotApplicationService\obj\Debug\InterBotApplicationService.dll
+C:\Users\Renato\Google Drive\infnet\aulas_eng_soft_aplicada\interbot-git\InterBotApplicationService\obj\Debug\InterBotApplicationService.pdb
+C:\Users\Renato\Google Drive\infnet\aulas_eng_soft_aplicada\interbot-git\InterBotApplicationService\bin\Debug\InterBotApplicationService.dll
+C:\Users\Renato\Google Drive\infnet\aulas_eng_soft_aplicada\interbot-git\InterBotApplicationService\bin\Debug\InterBotApplicationService.pdb
+C:\Users\Renato\Google Drive\infnet\aulas_eng_soft_aplicada\interbot-git\InterBotApplicationService\bin\Debug\InterBotDomain.dll
+C:\Users\Renato\Google Drive\infnet\aulas_eng_soft_aplicada\interbot-git\InterBotApplicationService\bin\Debug\InterBotDomain.pdb

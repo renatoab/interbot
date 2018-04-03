@@ -4,3 +4,9 @@ C:\Users\Renato\Google Drive\infnet\aulas_eng_soft_aplicada\InterBot-master\Inte
 C:\Users\Renato\Google Drive\infnet\aulas_eng_soft_aplicada\InterBot-master\InterBotDomain\obj\Debug\InterBotDomain.csproj.CoreCompileInputs.cache
 C:\Users\Renato\Google Drive\infnet\aulas_eng_soft_aplicada\InterBot-master\InterBotDomain\obj\Debug\InterBotDomain.dll
 C:\Users\Renato\Google Drive\infnet\aulas_eng_soft_aplicada\InterBot-master\InterBotDomain\obj\Debug\InterBotDomain.pdb
+C:\Users\Renato\Google Drive\infnet\aulas_eng_soft_aplicada\interbot-git\InterBotDomain\obj\Debug\InterBotDomain.csprojResolveAssemblyReference.cache
+C:\Users\Renato\Google Drive\infnet\aulas_eng_soft_aplicada\interbot-git\InterBotDomain\obj\Debug\InterBotDomain.csproj.CoreCompileInputs.cache
+C:\Users\Renato\Google Drive\infnet\aulas_eng_soft_aplicada\interbot-git\InterBotDomain\obj\Debug\InterBotDomain.dll
+C:\Users\Renato\Google Drive\infnet\aulas_eng_soft_aplicada\interbot-git\InterBotDomain\obj\Debug\InterBotDomain.pdb
+C:\Users\Renato\Google Drive\infnet\aulas_eng_soft_aplicada\interbot-git\InterBotDomain\bin\Debug\InterBotDomain.dll
+C:\Users\Renato\Google Drive\infnet\aulas_eng_soft_aplicada\interbot-git\InterBotDomain\bin\Debug\InterBotDomain.pdb

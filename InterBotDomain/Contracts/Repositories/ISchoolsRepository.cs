@@ -10,5 +10,6 @@ namespace InterBotDomain.Contracts.Repositories
     public interface ISchoolsRepository
     {
         List<Schools> ListSchools();
+        List<Schools> ListSchoolsByCity(Cities city);
     }
 }

@@ -18,6 +18,11 @@ namespace InterBotDomain.DomainServices
             this.citiesRepository = citiesRepository;
         }
 
+        public Cities getCityByName(string cityName)
+        {
+            return citiesRepository.getCitiesByName(cityName);
+        }
+
         public List<Cities> ListCities()
         {
             return citiesRepository.listarCities();

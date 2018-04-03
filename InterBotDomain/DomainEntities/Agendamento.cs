@@ -10,7 +10,7 @@ namespace InterBotDomain.DomainEntities
     {
         public Agendamento()
         {
-            Id = new Guid();
+            Id = Guid.NewGuid();
         }
 
         public Guid Id { get; set; }
