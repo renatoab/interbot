@@ -51,7 +51,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="BotAdapter.cs" />
+    <Compile Include="BotController.cs" />
+    <Compile Include="IBotAdapter.cs" />
+    <Compile Include="IBotController.cs" />
+    <Compile Include="Startup.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
